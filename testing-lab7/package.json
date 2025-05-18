@@ -1,0 +1,22 @@
+{
+  "name": "ui-testing-lab5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^24.8.2"
+  },
+  "dependencies": {
+    "axios": "^1.9.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
