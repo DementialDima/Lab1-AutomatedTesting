@@ -1,0 +1,1 @@
+await t.expect(Selector('footer').exists).ok(); 

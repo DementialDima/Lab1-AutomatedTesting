@@ -1,0 +1,1 @@
+await t.expect(Selector('.logo').visible).ok();
